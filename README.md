@@ -1,4 +1,3 @@
-## **ترجمه متن به انگلیسی:**
 
 **Project: Building a Simple Shell in Unix**
 
