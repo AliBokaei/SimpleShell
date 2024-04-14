@@ -3,8 +3,6 @@
 
 ------------------------------------------------------
 
-**General Description:**
-
 This project involves building a simple shell (command-line environment) for the Unix operating system. The shell should provide the following functionalities:
 
 * **Command Execution:**
